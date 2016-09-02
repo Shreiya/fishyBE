@@ -69,6 +69,7 @@ GEM
     nokogiri (1.6.8)
       mini_portile2 (~> 2.1.0)
       pkg-config (~> 1.1.7)
+    pg (0.18.4)
     pkg-config (1.1.7)
     pry (0.10.4)
       coderay (~> 1.1.0)
@@ -136,6 +137,7 @@ DEPENDENCIES
   byebug
   httparty (~> 0.14.0)
   listen (~> 3.0.5)
+  pg
   pry-rails
   puma (~> 3.0)
   rack-cors
